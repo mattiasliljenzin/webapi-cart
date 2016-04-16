@@ -6,7 +6,7 @@ List products and carts:
 * http://localhost:8080/products
 * http://localhost:8080/carts
 
-Support for GET, POST, PUT and DELETE on cart and products
+Support for GET, POST, PUT and DELETE
 
 # Configuration
 * Default storage is in memory (generates carts and products at startup)
